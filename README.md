@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hi+there+%2C+this+is+adib+" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hi+there+%2C+this+is+adib+)](https://git.io/typing-svg)
 
 <a href="https://app.daily.dev/ch_adib"><img src="https://api.daily.dev/devcards/c1573c64c95f42b38faae59042d989c3.png?r=kn7" width="400" alt="adib chiguer's Dev Card"/></a>
+
+## Technology Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,github)](https://skillicons.dev)
