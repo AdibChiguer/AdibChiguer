@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">A passionate Full-Stack developer 💻 from Morocco</h2>
+<h2 align="center">A passionate web developer 💻 from Morocco</h2>
 
 ###
 
